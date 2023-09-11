@@ -1,0 +1,45 @@
+body{
+    background-image: url("lap_img.jpg");
+    background-size: cover;
+}
+
+#Account{
+    text-align: center;
+   margin-left: 38%;
+    margin-top: 15%;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: aqua;
+    display: inline-block;
+
+}
+ #Account #names, #mail, #password{
+   padding:10px;
+   margin-bottom:2%;
+   border: none;
+   border-radius: 8px;
+
+}
+
+
+#Account #btn4{
+    margin-top: 0%;
+    padding: 10px;
+    background-color: brown;
+    border-radius: 8px;
+    color: white;
+    font-weight: 500;
+    
+ } 
+ #reg{
+    color: rgb(255, 255, 0);
+    font-size: 45px;
+    stroke-linecap: round;
+
+ }
+
+ #Account #nam{
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(2, 2, 2);
+ }
